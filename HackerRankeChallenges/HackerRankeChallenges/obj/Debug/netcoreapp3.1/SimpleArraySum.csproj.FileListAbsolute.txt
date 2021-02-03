@@ -1,0 +1,13 @@
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\bin\Debug\netcoreapp3.1\SimpleArraySum.exe
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\bin\Debug\netcoreapp3.1\SimpleArraySum.deps.json
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.json
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.dev.json
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\bin\Debug\netcoreapp3.1\SimpleArraySum.dll
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\bin\Debug\netcoreapp3.1\SimpleArraySum.pdb
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\obj\Debug\netcoreapp3.1\SimpleArraySum.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfo.cs
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\obj\Debug\netcoreapp3.1\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\obj\Debug\netcoreapp3.1\SimpleArraySum.dll
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\obj\Debug\netcoreapp3.1\SimpleArraySum.pdb
+C:\Users\Jason\Desktop\code\Haker_rank_challenges\HackerRankeChallenges\HackerRankeChallenges\obj\Debug\netcoreapp3.1\SimpleArraySum.genruntimeconfig.cache
